@@ -1,0 +1,6 @@
+streamlit
+beautifulsoup4
+tinycss2
+cssselect2
+lxml
+requests
